@@ -1,0 +1,24 @@
+header {
+  display: flex;
+  justify-content: space-between;
+  background-color: rgb(60, 65, 65);
+  color: rgb(203, 192, 192);
+  width: 100vw;
+  padding: 1rem 10rem 1rem 1rem;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  margin: 0.2rem;
+}
+
+.songs {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  margin: 0.1rem;
+  padding: 0 1rem;
+  background-color: rgb(238, 237, 237);
+}
